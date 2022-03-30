@@ -1,0 +1,1 @@
+cmd_/home/jeanpa/Escritorio/backup/lkm_rootkit/reboot_blocker2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/jeanpa/Escritorio/backup/lkm_rootkit/reboot_blocker2.ko /home/jeanpa/Escritorio/backup/lkm_rootkit/reboot_blocker2.o /home/jeanpa/Escritorio/backup/lkm_rootkit/reboot_blocker2.mod.o ;  true

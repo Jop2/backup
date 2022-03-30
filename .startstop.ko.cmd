@@ -1,0 +1,1 @@
+cmd_/home/jeanpa/Escritorio/backup/lkm_rootkit/startstop.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/jeanpa/Escritorio/backup/lkm_rootkit/startstop.ko /home/jeanpa/Escritorio/backup/lkm_rootkit/startstop.o /home/jeanpa/Escritorio/backup/lkm_rootkit/startstop.mod.o ;  true
